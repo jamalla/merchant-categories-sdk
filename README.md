@@ -1,0 +1,1 @@
+# merchant-categories-typescript
