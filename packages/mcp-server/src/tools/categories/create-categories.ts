@@ -26,6 +26,7 @@ export const tool: Tool = {
 };
 
 export const handler = async (client: MerchantCategories, args: Record<string, unknown> | undefined) => {
+  const body = args as any;
   return asTextContentResult((await client.categories.create(body)) as object);
 };
 
