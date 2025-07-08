@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.1-alpha.3 (2025-07-08)
+
+Full Changelog: [v0.0.1-alpha.2...v0.0.1-alpha.3](https://github.com/jamalla/merchant-categories-sdk/compare/v0.0.1-alpha.2...v0.0.1-alpha.3)
+
+### Bug Fixes
+
+* **mcp:** add missing cast ([a589b73](https://github.com/jamalla/merchant-categories-sdk/commit/a589b7333fba905d58fc8fa027808b2a8cb58cd5))
+
+
+### Chores
+
+* add docs to RequestOptions type ([aaf8327](https://github.com/jamalla/merchant-categories-sdk/commit/aaf832783bb1cdd751ad25ba7f34be50146f4f0f))
+
 ## 0.0.1-alpha.2 (2025-07-01)
 
 Full Changelog: [v0.0.1-alpha.1...v0.0.1-alpha.2](https://github.com/jamalla/merchant-categories-sdk/compare/v0.0.1-alpha.1...v0.0.1-alpha.2)
