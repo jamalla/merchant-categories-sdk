@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.2 (2025-07-13)
+
+Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/jamalla/merchant-categories-sdk/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
+### Chores
+
+* update SDK settings ([5a8bfd9](https://github.com/jamalla/merchant-categories-sdk/commit/5a8bfd9b76d8f6b5f9d1158ae5ff64f88313d045))
+
 ## 0.1.0-alpha.1 (2025-07-13)
 
 Full Changelog: [v0.0.1-alpha.2...v0.1.0-alpha.1](https://github.com/jamalla/merchant-categories-sdk/compare/v0.0.1-alpha.2...v0.1.0-alpha.1)
