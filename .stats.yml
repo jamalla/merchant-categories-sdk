@@ -1,4 +1,4 @@
 configured_endpoints: 8
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/salla%2Fmerchant-categories-5dce6f649661c2026623594dd57d4ac0050fa5bfb5bc4230580276640470a45f.yml
 openapi_spec_hash: d9312dd453d8243865c124ef695f31fe
-config_hash: 374f1c08c7390ccb3c19db07018c26c3
+config_hash: ef00cf150364d3a906c0cba34f82b83c
